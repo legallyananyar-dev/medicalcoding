@@ -1,0 +1,135 @@
+note_id,date,patient_age,patient_gender,note_text
+NOTE001,2024-01-15,45,M,"Chief Complaint: Persistent cough and shortness of breath
+
+History of Present Illness:
+45-year-old male with type 2 diabetes (ICD-10: E11.65) and hypertension (ICD-10: I10) presents with fever of 102°F, productive cough for 2 weeks, and dyspnea on exertion. Patient reports chest pain and fatigue. Denies hemoptysis.
+
+Medical History:
+- Diabetes Mellitus Type 2 (E11.65)
+- Hypertension (I10)
+- Hyperlipidemia
+
+Current Medications:
+- Metformin 500mg twice daily
+- Lisinopril 10mg once daily
+- Atorvastatin 20mg at bedtime
+- Aspirin 81mg daily
+
+Recent Lab Values:
+- Blood Glucose: 185 mg/dL
+- Systolic BP: 145 mmHg
+- WBC: 12.5 units
+
+Assessment:
+1. Community-acquired pneumonia (ICD-10: J18.9)
+2. Type 2 Diabetes Mellitus with complications
+
+Plan:
+- Start Amoxicillin 500mg three times daily for 7 days
+- Chest X-ray to rule out complications
+- Follow-up in 1 week"
+NOTE002,2024-01-16,52,F,"Chief Complaint: Follow-up for depression and anxiety
+
+History of Present Illness:
+52-year-old female with major depressive disorder (ICD-10: F32.9) and generalized anxiety disorder (ICD-10: F41.1) reports improved mood on current regimen. Sleep quality improving. No suicidal ideation.
+
+Current Medications:
+- Sertraline 100mg daily
+- Alprazolam 0.5mg twice daily as needed
+- Vitamin B12 supplement 1000 mcg daily
+
+Recent Lab Values (Jan 10, 2024):
+- Thyroid TSH: 2.1 mIU/L (normal)
+- Vitamin B12: 450 pg/mL (normal)
+
+Assessment:
+Major depressive disorder (F32.9) - improving
+Generalized anxiety disorder (F41.1) - stable
+
+Plan:
+Continue current medications
+Weekly psychotherapy
+Recheck labs in 3 months"
+NOTE003,2024-01-17,68,M,"Chief Complaint: Chest pain on exertion
+
+History of Present Illness:
+68-year-old male with history of myocardial infarction (ICD-10: I21.0) and coronary artery disease presents with acute chest pain that radiates to left arm. Pain started 30 minutes ago. Associated with shortness of breath and diaphoresis.
+
+Medical History:
+- Acute Myocardial Infarction (I21.0)
+- Coronary Artery Disease (I25.1)
+- Hypertension (I10)
+- Diabetes Type 2 (E11.9)
+
+Current Medications:
+- Clopidogrel (Plavix) 75mg daily
+- Metoprolol 50mg twice daily
+- Lisinopril 20mg daily
+- Atorvastatin 80mg daily
+- Aspirin 325mg daily
+
+Vital Signs:
+- BP: 165 mmHg systolic
+- Heart Rate: 108 bpm
+- Respiratory Rate: 22
+- Temperature: 98.6°F
+
+Assessment:
+1. Acute coronary syndrome (ICD-10: I24.8) - EMERGENCY
+2. History of myocardial infarction
+
+Plan:
+- EMERGENCY: Transfer to CCU
+- EKG and Troponin levels stat
+- Oxygen therapy
+- Continuous cardiac monitoring"
+NOTE004,2024-01-18,34,F,"Chief Complaint: Pregnancy check-up - 28 weeks gestation
+
+History of Present Illness:
+34-year-old gravida 2, para 1 (G2P1) at 28 weeks gestation presents for routine prenatal visit. Reports feeling baby movements. No complications noted. Blood pressure normal.
+
+Obstetric History:
+- Previous pregnancy uncomplicated, normal vaginal delivery 2 years ago
+
+Prenatal Labs (most recent):
+- Glucose tolerance test: 98 mg/dL (normal)
+- Complete Blood Count: normal
+- Blood type: O positive
+
+Current Medications:
+- Prenatal vitamins with folic acid 400 mcg daily
+- Calcium supplement 600mg twice daily
+
+Assessment:
+Normal pregnancy at 28 weeks gestation
+
+Plan:
+- Continue prenatal vitamins
+- Schedule fetal monitoring at 30 weeks
+- Repeat blood pressure check at next visit in 2 weeks
+- Patient education on labor signs"
+NOTE005,2024-01-19,72,M,"Chief Complaint: Chronic pain management follow-up
+
+History of Present Illness:
+72-year-old male with chronic lower back pain (ICD-10: M54.5) due to lumbar degenerative disc disease presents for medication adjustment. Current pain level 6/10. Physical therapy helping but wants pain control optimization.
+
+Medical History:
+- Chronic lower back pain (M54.5)
+- Lumbar degenerative disc disease (M47.27)
+- Osteoarthritis (M19.90)
+
+Current Medications:
+- Gabapentin 300mg three times daily
+- Ibuprofen 400mg four times daily as needed
+- Tramadol 50mg once daily at bedtime
+
+Assessment:
+Chronic lower back pain - inadequately controlled
+Lumbar degenerative disc disease
+
+Plan:
+- Increase Gabapentin to 400mg three times daily
+- Refer to pain management specialist
+- Continue physical therapy
+- Consider acupuncture
+- Follow-up in 4 weeks"
