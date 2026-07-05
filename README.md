@@ -74,21 +74,6 @@ print(f"ICD Codes: {extraction['regex_extraction']['icd_codes']}")
 print(f"Risk Level: {risk_assessment['overall_risk_level']}")
 ```
 
-### Interactive Web App
-
-You can also run a user-friendly Streamlit app to share with others.
-
-```bash
-pip install streamlit
-streamlit run streamlit_app.py
-```
-
-Then open the browser at:
-
-```
-http://localhost:8501
-```
-
 ---
 
 ## 📖 Detailed Features
